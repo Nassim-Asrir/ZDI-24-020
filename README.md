@@ -15,13 +15,12 @@ This is a custom exploit which targets Ubuntu 18.04+20.04 LTS/Centos 8/RHEL 8 to
 Features
 ========
 
-Highlights of the significant features of ProductName include:
+Highlights of the significant features include:
 
 * Bypasses KASLR
 * Bypasses SMAP/SMEP
 * Supports Linux x86_64
 
-Under Linux, ProductName gains root privileges.
 
 Exploit 
 ===================
@@ -260,7 +259,7 @@ Back in userland we then use the setuid python interpreter to do some cleanup an
 Notes
 ===================
 
-The following are some notes to help maintain the product.
+The following are some notes.
 
 The exploit has version and architecture specific offsets
 which have to be updated for new kernel images.
