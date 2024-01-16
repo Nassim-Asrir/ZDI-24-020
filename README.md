@@ -13,9 +13,6 @@ from the lack of proper locking when performing operations on an object.
 An attacker can leverage this vulnerability to escalate privileges and 
 execute code in the context of the kernel.
 
-Technical Analysis:
-===================
-
 Overview
 ========
 This is a custom exploit which targets Ubuntu 18.04+20.04 LTS/Centos 8/RHEL 8 to attain root privileges via arbitrary kernel code execution on SMP systems.
