@@ -1,1 +1,1 @@
-# ZDI-24-020
+Linux Kernel GSM Multiplexing Race Condition Local Privilege Escalation Vulnerability
