@@ -2,16 +2,11 @@ Linux Kernel GSM Multiplexing Race Condition Local Privilege Escalation Vulnerab
 
 https://www.zerodayinitiative.com/advisories/ZDI-24-020/
 
-This vulnerability allows local attackers to execute arbitrary code 
-on affected installations of Linux Kernel. An attacker must first obtain
-the ability to execute low-privileged code on the target system in 
-order to exploit this vulnerability.
+Contact me: 
 
+Twitter: https://twitter.com/p1k4l4
 
-The specific flaw exists within the n_gsm driver. The issue results 
-from the lack of proper locking when performing operations on an object.
-An attacker can leverage this vulnerability to escalate privileges and 
-execute code in the context of the kernel.
+Linkedin: https://www.linkedin.com/in/nassim-asrir-b73a57122/
 
 Overview
 ========
